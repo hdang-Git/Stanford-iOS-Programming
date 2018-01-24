@@ -1,0 +1,9 @@
+[submodule "Concentration"]
+	path = Concentration
+	url = ./Lecture 1/Concentration
+[submodule "Lecture 1/Lecture 1 - Concentration v1"]
+	path = Lecture 1/Lecture 1 - Concentration v1
+	url = ./Lecture 1/Concentration
+[submodule "Lecture 1/Concentration"]
+	path = Lecture 1/Concentration
+	url = ./Lecture 1/Concentration
